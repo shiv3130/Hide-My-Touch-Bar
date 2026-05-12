@@ -35,13 +35,23 @@ Download the latest macOS `.dmg` installer from the Releases page.
 ---
 
 ## Preview
+---
+
+### Menu Bar Controls
+
+<p align="center">
+  <img src="./assets/menu-bar.png" width="500">
+</p>
+
+<p align="center">
+Quick access to Touch Bar controls directly from the macOS menu bar.
+</p>
 
 ### General Settings
 
 <p align="center">
   <img src="./assets/general-settings.png" width="900">
 </p>
-
 ---
 
 ### Hotkey Configuration
